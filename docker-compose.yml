@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  thumbor:
+    build: .
+    network_mode: bridge
+    command: "thumbor"
+    ports:
+      - "8888:8888"
