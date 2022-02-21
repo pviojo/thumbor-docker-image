@@ -1,4 +1,3 @@
-libcurl4-openssl-dev
 python-numpy
 python-opencv
 libopencv-dev
@@ -16,3 +15,4 @@ libmemcache-dev
 libmemcached-dev
 python-scipy
 cython
+pyexiv2
